@@ -1,2 +1,2 @@
 # mixtu-rs
-A Rust crate for cluster analysis.
+A Rust crate for model-based learning.
